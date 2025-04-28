@@ -12,8 +12,7 @@ This project focuses on building a **Logistic Regression** model to classify ind
 - [Technologies Used](#technologies-used)
 - [Project Workflow](#project-workflow)
 - [Results](#results)
-- [How to Run](#how-to-run)
-- [License](#license)
+
 
 ---
 
